@@ -1,5 +1,3 @@
-(c) Radarfilm
+SSR Scenes with audio material from various sources.
 
-http://radarfilm.net/
-
-This work is licensed under the CC BY license (http://creativecommons.org/licenses/by/3.0/).
+See licensing information inside the folders.
